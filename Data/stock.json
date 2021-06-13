@@ -13,6 +13,19 @@
     "Industry": "Biotechnology: Laboratory Analytical Instruments"
   },
   {
+    "Symbol": "FB",
+    "Name": "Face Book",
+    "LastSale": "$43.50",
+    "NetChange": -0.67,
+    "Change": "-1.52%",
+    "Market Cap": 2057884428,
+    "Country": "United States",
+    "IPOYear": 2016,
+    "Volume": 113460,
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information"
+  },
+  {
     "Symbol" : "GOOG",
     "Name" : "Alphabet Inc.",
     "LastSale": "$232.34",
